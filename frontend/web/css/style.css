@@ -1,0 +1,92 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-weight: normal;
+}
+
+.index {
+	width: 100%;
+	height: 100%;
+	background-color: #b13c3e;
+	position: absolute;
+	background-image: url(../img/bg.png);
+	background-size: 100%;
+}
+
+.index-nav {
+	background-color: #a82f32;
+	margin-bottom: 0;
+	border-color: transparent;
+	border-radius: 0;
+	height: 80px;
+}
+
+.index-nav .container {
+	padding-top: 10px;
+	width: 900px;
+}
+
+.index-nav .navbar-brand {
+	padding: 8px 0;
+	line-height: 100px;
+}
+
+.nav-right {
+	line-height: 60px;
+	color: #FFFFFF;
+	padding-right: 10px;
+	cursor: pointer;
+}
+
+.cat-style {
+	text-align: center;
+	margin-top: 10%;
+}
+
+.index-bottom {
+	position: absolute;
+	width: 100%;
+	height: 90px;
+	bottom: 0;
+	background-color: #a82f32;
+	line-height: 82px;
+}
+
+.index-bottom img {
+	width: 50px;
+}
+
+.index-bottom small {
+	color: #fdb928;
+	margin-left: 10px;
+	margin-right: 20px;
+}
+
+.index-bottom span {
+	font-size: 2.2em;
+}
+
+.modal-sm {
+	width: 400px;
+}
+
+.modal-body {
+	padding: 20px 30px;
+}
+
+.m-t-10 {
+	margin-top: 10px;
+}
+
+.modal-footer {
+	padding: 15px 30px;
+}
+
+.modal-footer-text {
+	color: #888888;
+	text-align: center;
+	margin-top: 10px;
+}
